@@ -1,0 +1,7 @@
+/etc/cron.deny 640 rw-r-----
+
+/etc/at.deny 640 rw-r-----
+
+/etc/hosts.deny 640 rw-r-----
+
+/etc/hosts.allow 640 rw-r-----
